@@ -1,6 +1,8 @@
 I am a Ph.D. student in the [Natural Language Processing Group](http://nlp.cs.berkeley.edu) at UC Berkeley, advised by Dan Klein.
 I am interested in unsupervised learning, syntax, and language grounding.
 
+Email: dgaddy@berkeley.edu
+
 ## Publications
 
 [What's Going On in Neural Constituency Parsers? An Analysis](https://arxiv.org/abs/1804.07853)  
