@@ -7,7 +7,7 @@ Email: dgaddy@berkeley.edu
 
 [What's Going On in Neural Constituency Parsers? An Analysis](https://arxiv.org/abs/1804.07853)  
 David Gaddy, Mitchell Stern, and Dan Klein  
-NAACL 2018. [\[code\]](https://github.com/dgaddy/parser-analysis)
+NAACL 2018. [\[code\]](https://github.com/dgaddy/parser-analysis) [\[poster\]](publications/NAACL2018poster.pdf)
 
 
 [Ten Pairs to Tag - Multilingual POS Tagging via Coarse Mapping between Embeddings](https://people.csail.mit.edu/tommi/papers/Zhangetal_naacl16.pdf)  
