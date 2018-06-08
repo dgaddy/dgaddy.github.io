@@ -4,5 +4,25 @@
 @import "{{ site.theme }}";
 
 #header_wrap .inner {
-  padding: 50px 10px 20px 10px;
+  padding: 35px 10px 35px 10px;
+}
+
+#header_pic {
+  position: relative;
+  max-width: 640px;
+  margin: 0 auto;
+  padding-right: 30px;
+}
+
+#headshot {
+  height: 100px;
+  float: right;
+  margin-right: 40px;
+}
+
+@media screen and (max-width: 480px) {
+  #headshot {
+    height: 80px;
+    margin-right: 0px;
+  }
 }
