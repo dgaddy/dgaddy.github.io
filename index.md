@@ -5,6 +5,10 @@ Email: dgaddy@berkeley.edu
 
 ## Publications
 
+[Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following](http://arxiv.org/abs/1907.09671)
+David Gaddy and Dan Klein
+ACL 2019. [\[code\]](https://github.com/dgaddy/environment-learning)
+
 [What's Going On in Neural Constituency Parsers? An Analysis](https://arxiv.org/abs/1804.07853)  
 David Gaddy, Mitchell Stern, and Dan Klein  
 NAACL 2018. [\[code\]](https://github.com/dgaddy/parser-analysis) [\[poster\]](publications/NAACL2018poster.pdf)
