@@ -1,5 +1,5 @@
 I am a Ph.D. student in the [Natural Language Processing Group](http://nlp.cs.berkeley.edu) at UC Berkeley, advised by Dan Klein.
-I am interested in unsupervised learning, syntax, and language grounding.
+I am interested in unsupervised learning, language grounding, and syntax.
 
 Email: dgaddy@berkeley.edu
 
@@ -7,7 +7,7 @@ Email: dgaddy@berkeley.edu
 
 [Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following](http://arxiv.org/abs/1907.09671)  
 David Gaddy and Dan Klein  
-ACL 2019. [\[code\]](https://github.com/dgaddy/environment-learning)
+ACL 2019. [\[code\]](https://github.com/dgaddy/environment-learning) [\[slides\]](publications/ACL2019slides.pdf) [\[blog\]](https://bair.berkeley.edu/blog/2019/10/28/look-then-listen/)
 
 
 [What's Going On in Neural Constituency Parsers? An Analysis](https://arxiv.org/abs/1804.07853)  
