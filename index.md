@@ -1,9 +1,13 @@
 I am a Ph.D. student in the [Natural Language Processing Group](http://nlp.cs.berkeley.edu) at UC Berkeley, advised by Dan Klein.
-I am interested in unsupervised learning, language grounding, and syntax.
+I am interested in a large range of topics, including unsupervised learning, language grounding, parsing, and silent speech.
 
 Email: dgaddy@berkeley.edu
 
 ## Publications
+
+[Digital Voicing of Silent Speech](https://arxiv.org/abs/2010.02960)
+David Gaddy and Dan Klein
+EMNLP 2020. [\[code\]](https://github.com/dgaddy/silent_speech) [\[data\]](https://doi.org/10.5281/zenodo.4064408)
 
 [Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following](http://arxiv.org/abs/1907.09671)  
 David Gaddy and Dan Klein  
