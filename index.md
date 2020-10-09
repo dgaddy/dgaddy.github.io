@@ -5,9 +5,10 @@ Email: dgaddy@berkeley.edu
 
 ## Publications
 
-[Digital Voicing of Silent Speech](https://arxiv.org/abs/2010.02960)
-David Gaddy and Dan Klein
+[Digital Voicing of Silent Speech](https://arxiv.org/abs/2010.02960)  
+David Gaddy and Dan Klein  
 EMNLP 2020. [\[code\]](https://github.com/dgaddy/silent_speech) [\[data\]](https://doi.org/10.5281/zenodo.4064408)
+
 
 [Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following](http://arxiv.org/abs/1907.09671)  
 David Gaddy and Dan Klein  
