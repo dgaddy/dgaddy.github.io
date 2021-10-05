@@ -19,14 +19,14 @@ ACL 2021. [\[code\]](https://github.com/dgaddy/silent_speech)
 
 ### Other Publications
 
+[Overcoming Conflicting Data when Updating a Neural Semantic Parser](https://arxiv.org/abs/2010.12675)  
+David Gaddy, Alex Kouzemtchenko, Pavankumar Reddy Muddireddy, Prateek Kolhar, and Rushin Shah  
+Workshop on NLP for Conversational AI, EMNLP 2021. [\[data\]](https://github.com/google/overcoming-conflicting-data)
+
+
 [Interactive Assignments for Teaching Structured Neural NLP](http://nlp.cs.berkeley.edu/pubs/Gaddy-Fried-Kitaev-Stern-Corona-DeNero-Klein_2021_TeachingNLP_paper.pdf)  
 David Gaddy, Daniel Fried, Nikita Kitaev, Mitchell Stern, Rodolfo Corona, John DeNero, and Dan Klein  
 Teaching NLP Workshop, NAACL 2021. [\[materials\]](https://sites.google.com/view/nlp-assignments)
-
-
-[Overcoming Conflicting Data for Model Updates](https://arxiv.org/abs/2010.12675)  
-David Gaddy, Alex Kouzemtchenko, Pavan Kumar Reddy, Prateek Kolhar, and Rushin Shah  
-arXiv preprint. [\[data\]](https://github.com/google/overcoming-conflicting-data)
 
 
 [Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following](http://arxiv.org/abs/1907.09671)  
