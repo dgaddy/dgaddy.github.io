@@ -1,9 +1,11 @@
-I am a Ph.D. student in the [Natural Language Processing Group](http://nlp.cs.berkeley.edu) at UC Berkeley, advised by Dan Klein.
-My current research is on decoding silent speech with electromyography.  This work aims to recognize silently mouthed words and turn them into audible speech or text, using electrical signals from muscles of the face.
-I have also worked on a range of other topics, including language grounding, semantic parsing, and syntactic parsing.
-I did my undergraduate studies at MIT and have interned at FAIR and Google.
+I am a research scientist at Google studying natural language processing.
 
-Email: dgaddy@berkeley.edu
+Previously, I was a Ph.D. student in the [Natural Language Processing Group](http://nlp.cs.berkeley.edu) at UC Berkeley, advised by Dan Klein.
+My thesis research was on decoding silent speech with electromyography.  This work aimed to recognize silently mouthed words and turn them into audible speech or text, using electrical signals from muscles of the face.
+I also worked on a range of other topics, including language grounding, semantic parsing, and syntactic parsing.
+I did my undergraduate studies at MIT.
+
+Email: dgaddy@google.com
 
 ### Silent Speech Publications
 
