@@ -15,14 +15,20 @@
 }
 
 #headshot {
-  height: 100px;
+  height: 120px;
   float: right;
-  margin-right: 40px;
+  margin: 4px 40px 4px 0;
+  padding: 2px;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
 }
 
 @media screen and (max-width: 480px) {
   #headshot {
-    height: 80px;
+    height: 100px;
     margin-right: 0px;
   }
 }
